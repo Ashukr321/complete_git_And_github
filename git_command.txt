@@ -1,0 +1,7 @@
+git init 
+git status
+
+ls 
+git add .
+git log 
+git commit -m " passing the message "

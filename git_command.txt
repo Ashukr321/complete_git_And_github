@@ -5,3 +5,6 @@ ls
 git add .
 git log 
 git commit -m " passing the message "
+git checkout file name that we want to revert 
+
+git rm --cached -r . 

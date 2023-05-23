@@ -7,4 +7,14 @@ git log
 git commit -m " passing the message "
 git checkout file name that we want to revert 
 
-git rm --cached -r . 
+git rm --cached -r .  
+this revert the file from staging area 
+git reset --soft
+
+
+echo " "> .gitignore 
+this is used for the create the .gitignore 
+
+git status 
+this show the status of the code section 
+
